@@ -3,7 +3,7 @@ docutils==0.13.1
 geoip2==2.4.2
 jinja2 >= 2.7
 numpy==1.12.1
-Pillow
+Pillow==4.0.0
 PyYAML
 pytz > dev
 selenium
