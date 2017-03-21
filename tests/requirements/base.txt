@@ -6,6 +6,6 @@ numpy==1.12.1
 Pillow==4.0.0
 PyYAML==3.12
 pytz > dev
-selenium
+selenium==3.3.1
 sqlparse
 tblib
