@@ -7,5 +7,5 @@ Pillow==4.0.0
 PyYAML==3.12
 pytz > dev
 selenium==3.3.1
-sqlparse
+sqlparse==0.2.3
 tblib
